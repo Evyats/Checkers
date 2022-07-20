@@ -1,0 +1,18 @@
+C:\Users\evyat\Desktop\B22 Ex05 Evyatar 208989236 Gur 315097584\Ex05\bin\Debug\Ex05.exe.config
+C:\Users\evyat\Desktop\B22 Ex05 Evyatar 208989236 Gur 315097584\Ex05\bin\Debug\Ex05.exe
+C:\Users\evyat\Desktop\B22 Ex05 Evyatar 208989236 Gur 315097584\Ex05\bin\Debug\Ex05.pdb
+C:\Users\evyat\Desktop\B22 Ex05 Evyatar 208989236 Gur 315097584\Ex05\obj\Debug\Ex05.csproj.AssemblyReference.cache
+C:\Users\evyat\Desktop\B22 Ex05 Evyatar 208989236 Gur 315097584\Ex05\obj\Debug\Ex05.csproj.SuggestedBindingRedirects.cache
+C:\Users\evyat\Desktop\B22 Ex05 Evyatar 208989236 Gur 315097584\Ex05\obj\Debug\Ex05.csproj.CoreCompileInputs.cache
+C:\Users\evyat\Desktop\B22 Ex05 Evyatar 208989236 Gur 315097584\Ex05\obj\Debug\Ex05.exe
+C:\Users\evyat\Desktop\B22 Ex05 Evyatar 208989236 Gur 315097584\Ex05\obj\Debug\Ex05.pdb
+C:\Users\evyat\IDC\שנה ב סמסטר ב\תכנות בשפת C#\HW5\B22 Ex05 EvyatarSharony 208989236 GurKeinan 315097584\Ex05\bin\Debug\Ex05.exe.config
+C:\Users\evyat\IDC\שנה ב סמסטר ב\תכנות בשפת C#\HW5\B22 Ex05 EvyatarSharony 208989236 GurKeinan 315097584\Ex05\bin\Debug\Ex05.exe
+C:\Users\evyat\IDC\שנה ב סמסטר ב\תכנות בשפת C#\HW5\B22 Ex05 EvyatarSharony 208989236 GurKeinan 315097584\Ex05\bin\Debug\Ex05.pdb
+C:\Users\evyat\IDC\שנה ב סמסטר ב\תכנות בשפת C#\HW5\B22 Ex05 EvyatarSharony 208989236 GurKeinan 315097584\Ex05\obj\Debug\Ex05.csproj.AssemblyReference.cache
+C:\Users\evyat\IDC\שנה ב סמסטר ב\תכנות בשפת C#\HW5\B22 Ex05 EvyatarSharony 208989236 GurKeinan 315097584\Ex05\obj\Debug\Ex05.csproj.SuggestedBindingRedirects.cache
+C:\Users\evyat\IDC\שנה ב סמסטר ב\תכנות בשפת C#\HW5\B22 Ex05 EvyatarSharony 208989236 GurKeinan 315097584\Ex05\obj\Debug\Ex05.csproj.CoreCompileInputs.cache
+C:\Users\evyat\IDC\שנה ב סמסטר ב\תכנות בשפת C#\HW5\B22 Ex05 EvyatarSharony 208989236 GurKeinan 315097584\Ex05\obj\Debug\Ex05.exe
+C:\Users\evyat\IDC\שנה ב סמסטר ב\תכנות בשפת C#\HW5\B22 Ex05 EvyatarSharony 208989236 GurKeinan 315097584\Ex05\obj\Debug\Ex05.pdb
+C:\Users\evyat\IDC\שנה ב סמסטר ב\תכנות בשפת C#\HW5\B22 Ex05 EvyatarSharony 208989236 GurKeinan 315097584\Ex05\obj\Debug\Ex05.UI.GameSettingsForm.resources
+C:\Users\evyat\IDC\שנה ב סמסטר ב\תכנות בשפת C#\HW5\B22 Ex05 EvyatarSharony 208989236 GurKeinan 315097584\Ex05\obj\Debug\Ex05.csproj.GenerateResource.cache
